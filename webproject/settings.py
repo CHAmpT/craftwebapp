@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'gmqvzc^$l80v0hlg9)$$_72wl%--gj@y6yvowhdmwi()8#-602'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://bsdcourses.herokuapp.com/']
 
 
 # Application definition
