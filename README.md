@@ -1,2 +1,0 @@
-# Coursesweb
-# bsdcourses
