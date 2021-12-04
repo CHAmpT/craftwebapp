@@ -25,7 +25,7 @@ SECRET_KEY = 'gmqvzc^$l80v0hlg9)$$_72wl%--gj@y6yvowhdmwi()8#-602'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://bsdcourses.herokuapp.com/']
 
 
 # Application definition
