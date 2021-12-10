@@ -1,1 +1,1 @@
-web: gunicorn bsdcourses.wsgi --log-file -
+web: gunicorn webproject.wsgi --log-file -
